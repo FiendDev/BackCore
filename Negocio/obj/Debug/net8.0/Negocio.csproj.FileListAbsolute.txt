@@ -1,0 +1,17 @@
+C:\VS\Negocio\bin\Debug\net8.0\Negocio.deps.json
+C:\VS\Negocio\bin\Debug\net8.0\Negocio.dll
+C:\VS\Negocio\bin\Debug\net8.0\Negocio.pdb
+C:\VS\Negocio\bin\Debug\net8.0\Data.dll
+C:\VS\Negocio\bin\Debug\net8.0\Modelo.dll
+C:\VS\Negocio\bin\Debug\net8.0\Data.pdb
+C:\VS\Negocio\bin\Debug\net8.0\Modelo.pdb
+C:\VS\Negocio\obj\Debug\net8.0\Negocio.csproj.AssemblyReference.cache
+C:\VS\Negocio\obj\Debug\net8.0\Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS\Negocio\obj\Debug\net8.0\Negocio.AssemblyInfoInputs.cache
+C:\VS\Negocio\obj\Debug\net8.0\Negocio.AssemblyInfo.cs
+C:\VS\Negocio\obj\Debug\net8.0\Negocio.csproj.CoreCompileInputs.cache
+C:\VS\Negocio\obj\Debug\net8.0\Negocio.csproj.Up2Date
+C:\VS\Negocio\obj\Debug\net8.0\Negocio.dll
+C:\VS\Negocio\obj\Debug\net8.0\refint\Negocio.dll
+C:\VS\Negocio\obj\Debug\net8.0\Negocio.pdb
+C:\VS\Negocio\obj\Debug\net8.0\ref\Negocio.dll

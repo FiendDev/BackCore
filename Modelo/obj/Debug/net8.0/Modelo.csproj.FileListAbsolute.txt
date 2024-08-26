@@ -1,0 +1,12 @@
+C:\VS\Modelo\bin\Debug\net8.0\Modelo.deps.json
+C:\VS\Modelo\bin\Debug\net8.0\Modelo.dll
+C:\VS\Modelo\bin\Debug\net8.0\Modelo.pdb
+C:\VS\Modelo\obj\Debug\net8.0\Modelo.csproj.AssemblyReference.cache
+C:\VS\Modelo\obj\Debug\net8.0\Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS\Modelo\obj\Debug\net8.0\Modelo.AssemblyInfoInputs.cache
+C:\VS\Modelo\obj\Debug\net8.0\Modelo.AssemblyInfo.cs
+C:\VS\Modelo\obj\Debug\net8.0\Modelo.csproj.CoreCompileInputs.cache
+C:\VS\Modelo\obj\Debug\net8.0\Modelo.dll
+C:\VS\Modelo\obj\Debug\net8.0\refint\Modelo.dll
+C:\VS\Modelo\obj\Debug\net8.0\Modelo.pdb
+C:\VS\Modelo\obj\Debug\net8.0\ref\Modelo.dll
